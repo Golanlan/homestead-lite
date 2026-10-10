@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
+hash = "28d2059c8175c64f9dd72975aea9fc7e3551f3dbf11d234b45d0b86761244801"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "dab55216d31631bf9011d6bdd4f4b50dffc891620b26e538c689e2dfd688a337"
+hash = "91d77e070777044a75b782afc2e2267890e929069e264c3d0e9201eff7c207c1"
 metafile = true
 
 [[files]]
