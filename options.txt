@@ -1,0 +1,9 @@
+version:3465
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Icon Xaero's 1.22.zip","file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip","file/Better+Lanterns+v1.2(mc-1.20.1).zip","file/Fancy_Beds-v4.2.zip","file/Better_Dogs_V0.41.zip","file/Mizuno Better Flowers Leaves 2.4.zip","file/Modern Mizunos v0.5.2.zip"]
+incompatibleResourcePacks:[]
+renderDistance:8
+simulationDistance:6
+maxFps:60
+enableVsync:true
+particles:1
+entityDistanceScaling:0.75

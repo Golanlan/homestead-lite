@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "f01118e7955f3ef851bd4cdf4571baaa469206d9d85aae3e587e518960ab1831"
+preserve = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1258580c99ee18d6e43004c164de3fcc320cd78c8774c7a9bad04a1d5f774803"
 metafile = true
@@ -251,8 +256,18 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "24f3dc7a45b4cd7b66dc1d24e0d25998bde2682dd6634f54bf28be6b2e1e569d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "8f87be4a343aa97303a0d934d388dcd9674769f65f790a9ac0c13ea815024c78"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "35c7b480e9a88f1ee3aa9188857001d8b323caa84117796c551840e6445087c5"
 metafile = true
 
 [[files]]
@@ -868,4 +883,79 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "691e090328215d2bc82667316431287a0a888e09133c0f8e3ad8b2152cceb530"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "89836b92e17f180fa95d9239159cc5670408685daa235e4b72c1fb5f6472fa62"
+preserve = true
+
+[[files]]
+file = "resourcepacks/better-dogs.pw.toml"
+hash = "8eba59770b5a5682a190345af07a28ab8fa6bb4c9313faad045e55064dbddc90"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "817bb46763b767cc202d873a1942bd0364f06ed921828d83728732f03e269b00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-beds.pw.toml"
+hash = "602f123bdff3b0843472e60a673aab77c2e2cd82a09bd79865893fe299b648c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "9dc9b1568b6eaa48e16455e2a119566aa0e1c0e6f3e71099b97c535a73d0cd84"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "138782de21338a65a0ead81c88e1f6b6046dd20f1a9952a07d503dab948d0cd3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno-better-leaves.pw.toml"
+hash = "9dcce781747dd64e41cf3dab7aa80ca9861ff79e656a4b20b511e04eebe2c6f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-mizunos.pw.toml"
+hash = "554349a3529e632c3d9cffdf0b478c9177b7e713c97bcbc1da21e82f7c9df153"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torches-reimagined.pw.toml"
+hash = "12fbd68f1be74f294c59c8c66f609a9306956700dda5269568e4766456fc4751"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "1842144de7d1cab45f4e2a5e28bd87672316b21db24effc1047f0277dd9c0c38"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "124adb8dc2e059324dc6b4d80d2b381ab92181a96abe1c2a7c58964c17903bfe"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+hash = "45c38ced99ece596768dff923534dc9acfe5f4493ed9549b047024a9707c186c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "ca4193687894d794a5a6f18b554f9fbe44d9983d8e9328218281eab8d004005d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "2b80eb21a1c456256fba2a017fa4dd4007bfdd6dee8a95ea6b8dd1833bb5fa40"
 metafile = true
