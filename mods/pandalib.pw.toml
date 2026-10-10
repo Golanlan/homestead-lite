@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-fabric-1.20.1-0.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4688da30901b38334f7e1cbc472bd09e38ea9897"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8787567
+project-id = 975460
